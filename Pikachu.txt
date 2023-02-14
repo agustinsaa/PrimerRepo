@@ -8,3 +8,7 @@ Stats:
 	-Defensa Especial: 50
 	-Velocidad: 90
 	-PS:35
+
+Lugares donde se encuentra:
+	- Bosque Verde
+	- Central Energía
