@@ -1,3 +1,1 @@
-Hola Mundo
-Soy Agustín Saavedra, mi futuro en este negocio es ser un gran programador y
-ser feliz con lo que me gusta.
+Hola Mundo.
