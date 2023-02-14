@@ -1,0 +1,10 @@
+Nombre: Pikachu
+Tipo: Eléctrico
+
+Stats:
+	-Ataque: 55
+	-Defensa: 40
+	-Ataque Especial: 50
+	-Defensa Especial: 50
+	-Velocidad: 90
+	-PS:35
