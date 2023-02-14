@@ -1,0 +1,10 @@
+Nombre: Heracross
+Tipo: Bicho/Lucha
+
+Stats: 
+	-Ataque: 125
+	-Defensa: 75
+	-Ataque Especial: 40
+	-Defensa Especial: 95
+	-Velocidad: 85
+	-PS: 80
