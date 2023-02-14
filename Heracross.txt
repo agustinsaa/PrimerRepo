@@ -8,3 +8,7 @@ Stats:
 	-Defensa Especial: 95
 	-Velocidad: 85
 	-PS: 80
+
+Lugares donde se encuentra:
+	- Ruta 29 a 33
+	- Ruta 42 a 44
